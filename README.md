@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto; object-fit: cover;"/> -->
+  <img src='./assets/header-text.png' style="max-width: 100%; height: auto; object-fit: cover;"  />
 </div>
 
-# Hi, I'm Paria and I love what I do!  
+<br>
 
-I am a **Front-End Developer** based in Tehran.  
+I am a **Front-End Developer** based in Tehran.
 
 I’m a curious and creative developer who loves building clean, user-friendly apps.  
 Always sharpening my **problem-solving** skills and exploring new tools, I enjoy turning ideas into pleasant experiences.  
+
 Right now, I’m diving into **Kotlin** and **Flutter** to grow beyond the web. 
-
-
 
 ## 🎯 Tech Stack  
 
