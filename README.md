@@ -12,7 +12,7 @@ Always sharpening my **problem-solving** skills and exploring new tools, I enjoy
 
 Right now, I’m diving into **Kotlin** and **Flutter** to grow beyond the web. 
 
-## 🎯 Tech Stack  
+## Tech Stack  
 
 ### Frontend & Web  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=000)
@@ -36,12 +36,12 @@ Right now, I’m diving into **Kotlin** and **Flutter** to grow beyond the web.
 ![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?logo=prisma&logoColor=000)
 ![Biome](https://img.shields.io/badge/Biome-FFFFFF?logo=biome&logoColor=000)
 
-## ❤️ Favorite Projects  
+## Favorite Projects  
 - [Notino](https://github.com/PariaSoleimani/notino-nuxt) 
 - [Houshyaar](https://github.com/houshyaar/visit)
 
 
-## 🌍 Let’s Connect  
+## Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=white)](https://linkedin.com/in/pariasoleimani)  
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram&logoColor=000)](https://t.me/SheCodes)  
 [![Email](https://img.shields.io/badge/Email-FFFFFF?logo=gmail&logoColor=000)](mailto:paria.slmni@gmail.com)  
