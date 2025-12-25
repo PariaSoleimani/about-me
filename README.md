@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto; object-fit: cover;"/> -->
-  <img src='./assets/header-text.png' style="max-width: 100%; height: auto; object-fit: cover;"  />
+  <img src='./assets/banner.png' style="max-width: 100%; height: auto; object-fit: cover;"  />
 </div>
 
 <br>
