@@ -23,27 +23,26 @@ Right now, I’m diving into **Kotlin** and **Flutter** to grow beyond the web.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwindcss&logoColor=000)
 
 ### Backend  
-![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?logo=prisma&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?logo=express&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?logo=postgresql&logoColor=000)
-![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?logo=sqlite&logoColor=000)
 
 ### Mobile  
 ![React Native](https://img.shields.io/badge/React_Native-FFFFFF?logo=react&logoColor=000)
 ![Expo](https://img.shields.io/badge/Expo-FFFFFF?logo=expo&logoColor=000)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF?logo=kotlin&logoColor=000)
 
+### Tools  
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?logo=figma&logoColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?logo=prisma&logoColor=000)
+![Biome](https://img.shields.io/badge/Biome-FFFFFF?logo=biome&logoColor=000)
 
-## 🎨 Favorite Projects  
-- *(Coming soon...)*  
-
+## ❤️ Favorite Projects  
+- [Notino](https://github.com/PariaSoleimani/notino-nuxt) 
+- [Houshyaar](https://github.com/houshyaar/visit)
 
 
 ## 🌍 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=white)](https://linkedin.com/in/pariasoleimani)  
-[![X (Twitter)](https://img.shields.io/badge/Twitter-FFFFFF?logo=x&logoColor=000)](https://x.com/TheOnlyRealPari)  
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram&logoColor=000)](https://t.me/SheCodes)  
 [![Email](https://img.shields.io/badge/Email-FFFFFF?logo=gmail&logoColor=000)](mailto:paria.slmni@gmail.com)  
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=pariasoleimani&style=for-the-badge&color=ff69b4&base=100)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-FFFFFF?logo=x&logoColor=000)](https://x.com/TheOnlyRealPari)  
