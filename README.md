@@ -5,7 +5,7 @@
 
 <br>
 
-I am a **Front-End Developer** based in Tehran.
+I am a **Mobile and Web Developer** based in Tehran.
 
 I’m a curious and creative developer who loves building clean, user-friendly apps.  
 Always sharpening my **problem-solving** skills and exploring new tools, I enjoy turning ideas into pleasant experiences.  
