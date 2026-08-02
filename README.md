@@ -37,9 +37,9 @@ Right now, I’m diving into **Kotlin** and **Flutter** to grow beyond the web.
 ![Biome](https://img.shields.io/badge/Biome-FFFFFF?logo=biome&logoColor=000)
 
 ## Favorite Projects  
+- [Houshyaar](https://github.com/houshyaar/visit)
 - [Éclat](https://github.com/PariaSoleimani/eclat-expo-express)
 - [Notino](https://github.com/PariaSoleimani/notino-nuxt) 
-- [Houshyaar](https://github.com/houshyaar/visit)
 
 
 ## Let’s Connect  
